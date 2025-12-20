@@ -54,9 +54,9 @@ export default function Navbar() {
           <li className='navlist' onClick={() => handleProtectedLinkClick('/video')}>
             <span>Video</span>
           </li>
-          <li className='navlist'>
+          {/* <li className='navlist'>
             <Link to="https://razorpay.me/@shivamkumar2807" onClick={toggleNavbar}>Payment</Link>
-          </li>
+          </li> */}
           <li className='navlist'>
             <Link to="https://ai-interviewer-e4b64026.base44.app" onClick={toggleNavbar}> Interview Practice</Link>
           </li>
