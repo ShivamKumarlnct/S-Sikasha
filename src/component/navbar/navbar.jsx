@@ -58,10 +58,10 @@ export default function Navbar() {
             <Link to="https://razorpay.me/@shivamkumar2807" onClick={toggleNavbar}>Payment</Link>
           </li> */}
           <li className='navlist'>
-            <Link to="https://sikasha-interview.base44.app" onClick={toggleNavbar}> Interview Practice</Link>
+            <Link to="https://interview-master-ai-ffc80435.base44.app" onClick={toggleNavbar}> Interview Practice</Link>
           </li>
            <li className='navlist'>
-            <Link to="https://sikasha.base44.app" onClick={toggleNavbar}> Communication Practice</Link>
+            <Link to="https://lingua-connect-88e36417.base44.app" onClick={toggleNavbar}> Communication Practice</Link>
           </li>
           
         </ul>
